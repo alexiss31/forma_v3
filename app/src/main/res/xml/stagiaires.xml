@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stagiaires>
+    <stagiaire id="1">
+        <nom>Martin</nom>
+        <prenom>Jean</prenom>
+        <email>jean.martin@example.com</email>
+        <mdp>azerty123</mdp>
+        <cp>57000</cp>
+        <ville>Metz</ville>
+        <fonction>Bénévole</fonction>
+        <id_public>1</id_public>
+    </stagiaire>
+    <stagiaire id="2">
+        <nom>Durand</nom>
+        <prenom>Claire</prenom>
+        <email>claire.durand@example.com</email>
+        <mdp>mdp123</mdp>
+        <cp>54000</cp>
+        <ville>Nancy</ville>
+        <fonction>Salarie</fonction>
+        <id_public>2</id_public>
+    </stagiaire>
+    <stagiaire id="3">
+        <nom>Lemoine</nom>
+        <prenom>Valérie</prenom>
+        <email>valerie.lemoine@example.com</email>
+        <mdp>mdp456</mdp>
+        <cp>88000</cp>
+        <ville>Épinal</ville>
+        <fonction>Dirigeante</fonction>
+        <id_public>3</id_public>
+    </stagiaire>
+    <stagiaire id="4">
+        <nom>Morel</nom>
+        <prenom>Luc</prenom>
+        <email>luc.morel@example.com</email>
+        <mdp>mdp789123</mdp>
+        <cp>67000</cp>
+        <ville>Strasbourg</ville>
+        <fonction>Responsable</fonction>
+        <id_public>4</id_public>
+    </stagiaire>
+    <stagiaire id="5">
+        <nom>Petit</nom>
+        <prenom>Emma</prenom>
+        <email>emma.petit@example.com</email>
+        <mdp>azerty</mdp>
+        <cp>55000</cp>
+        <ville>Bar-le-Duc</ville>
+        <fonction>Volontaire</fonction>
+        <id_public>2</id_public>
+    </stagiaire>
+</stagiaires>

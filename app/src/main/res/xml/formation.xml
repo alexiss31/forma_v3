@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<formations>
+    <formation id="1">
+        <libelle>Gestion d'équipe</libelle>
+        <objectifs>Améliorer le travail d'équipe</objectifs>
+        <date_debut>2025-06-10</date_debut>
+        <date_fin>2025-06-12</date_fin>
+        <salle>Salle A</salle>
+        <public_vise>Bénévoles</public_vise>
+        <intervenants>
+            <intervenant>Jean Dupont</intervenant>
+            <intervenant>Claire Martin</intervenant>
+        </intervenants>
+    </formation>
+
+    <formation id="2">
+        <libelle>Communication associative</libelle>
+        <objectifs>Mieux communiquer au sein des associations</objectifs>
+        <date_debut>2025-07-01</date_debut>
+        <date_fin>2025-07-02</date_fin>
+        <salle>Salle B</salle>
+        <public_vise>Dirigeants</public_vise>
+        <intervenants>
+            <intervenant>Marc Lebrun</intervenant>
+        </intervenants>
+    </formation>
+
+    <formation id="3">
+        <libelle>Initiation à la comptabilité</libelle>
+        <objectifs>Comprendre les bases de la comptabilité associative</objectifs>
+        <date_debut>2025-08-15</date_debut>
+        <date_fin>2025-08-17</date_fin>
+        <salle>Salle C</salle>
+        <public_vise>Trésoriers</public_vise>
+        <intervenants>
+            <intervenant>Sophie Morel</intervenant>
+        </intervenants>
+    </formation>
+
+    <formation id="4">
+        <libelle>Sécurité lors des événements</libelle>
+        <objectifs>Assurer la sécurité des participants</objectifs>
+        <date_debut>2025-09-05</date_debut>
+        <date_fin>2025-09-06</date_fin>
+        <salle>Salle D</salle>
+        <public_vise>Organisateurs</public_vise>
+        <intervenants>
+            <intervenant>Paul Girard</intervenant>
+            <intervenant>Lucie Dufresne</intervenant>
+        </intervenants>
+    </formation>
+
+    <formation id="5">
+        <libelle>Numérique et association</libelle>
+        <objectifs>Utiliser les outils numériques pour gérer une association</objectifs>
+        <date_debut>2025-10-12</date_debut>
+        <date_fin>2025-10-14</date_fin>
+        <salle>Salle E</salle>
+        <public_vise>Tous publics</public_vise>
+        <intervenants>
+            <intervenant>Thomas Leroy</intervenant>
+        </intervenants>
+    </formation>
+</formations>
